@@ -1,6 +1,6 @@
 # Voting Eligibility Checker
 
-print("=== Voting Eligibility Checker ===")
+print(" Voting Eligibility Checker ")
 
 age_input = input("Enter your age: ")
 
